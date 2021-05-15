@@ -192,4 +192,4 @@ async def h(ctx):
     embed.add_field(name=ctx.author.display_name, value="did it solved your problem? ~If u still don't have an answer pls contact the staff")
     await ctx.send(embed=embed)
 
-client.run("NzQwMjU5MDA1NjYxODM5Mzgx.XymZ7A.0GZHMvu1aa_1DWOnUKaJKDTtLK4")
+client.run("TOKEN")
